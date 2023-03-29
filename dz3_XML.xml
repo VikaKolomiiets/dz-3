@@ -50,7 +50,7 @@
         </ExperimentsInResearchAndSociety>
         <ModernX-RayPhysics id="" credits="95" mandatory="true"/>
     </PhysicsMaterialsscience>
-    <LibraryBooks>
+    <LibraryAccount id="0a6a6f62cedc4416a5ed4b5d9cedacc7">
         <GeneralScience>
             <Book id="ddbeca9109fa4aa987957b818912bb1b" order="1" name="Lucent's General Science" author="Experts' Compilation" publisher="Lucent Publications" printed="2021" language="English" dataStart="2023-01-06"/>
             <Book id="e587863bd27846bb82f6e3b7d3caa9ee" order="2" name="Elements of Modern X-ray Physics" author="Des McMorrow, Jens Als-Nielsen" publisher="Wiley; 2nd edition" printed="2011" language="English" dataStart="2023-01-07"/>
@@ -62,5 +62,5 @@
         <BusinessEconomics>
             <Book id="8ad0ed84bc1b4b40b81140494bdbaf2f" order="5" name="Financial Intelligence: A Manager's Guide to Knowing What the Numbers" author="Karen Berman, Joe Knight" Publisher="Tantor Audio" printed="2015" language="English" dataStart="2023-02-06"/>
         </BusinessEconomics>
-    </LibraryBooks>
+    </LibraryAccount>
 </Student>
