@@ -21,42 +21,53 @@
         <dataEnd>2023-06-10</dataEnd>
     </Dormitory>
     <Programm>MasterProgramme</Programm>
-    <PhysicsMaterialsscience>
-        <Physics>
+    <PhysicsMaterialsScience>
+        <Subject>
+         <name>Physics</name>
             <id>b0ed589d81e84f07b7638006c7985879</id>
             <credits>85</credits>
             <mandatory>true</mandatory>
             <chosen>true</chosen>
-        </Physics>
-        <MaterialsScience>
+        </Subject>
+        <Subject>
+        <name>MaterialsScience</name>
             <id>a1f4d7133edc4c47b38499c28d1ca69a</id>
             <credits>105</credits>
             <mandatory>false</mandatory>
             <chosen>true</chosen>
-        </MaterialsScience>
-        <QuantumMechanics>
+        </Subject>
+        <Subject>
+        <name>QuantumMechanics</name>
             <id>b85f360a3d4748fea06c486b203c9f88</id>
             <credits>70</credits>
             <mandatory>true</mandatory>
             <chosen>true</chosen>
-        </QuantumMechanics>
-        <PhysicsAndChemistryOfSurfaces>
+        </Subject>
+         <Subject>
+         <name>PhysicsAndChemistryOfSurfaces</name>
             <id>2f35314f21084da9a9bdcaf237abd283</id>
             <credits>100</credits>
             <mandatory>false</mandatory>
             <chosen>true</chosen>
-        </PhysicsAndChemistryOfSurfaces>
-        <ExperimentsInResearchAndSociety>
+        </Subject>
+        <Subject>
+        <name>ExperimentsInResearchAndSociety</name>
             <id>0a68a3b1e9434b9fba6a47bfc23da338</id>
             <credits>95</credits>
             <mandatory>true</mandatory>
             <chosen>true</chosen>
-        </ExperimentsInResearchAndSociety>
-        <ModernX-RayPhysics id="" credits="95" mandatory="true"/>
-    </PhysicsMaterialsscience>
+        </Subject>
+        <Subject>
+            <name>ModernX-RayPhysics</name>
+            <id>672e1589a84a45cb84069ca4f4b00640</id>
+            <credits>95</credits>
+            <mandatory>true</mandatory>
+            <chosen>true</chosen>
+        </Subject>
+    </PhysicsMaterialsScience>
     <LibraryAccount id="0a6a6f62cedc4416a5ed4b5d9cedacc7">
         <GeneralScience>
-            <Book id="ddbeca9109fa4aa987957b818912bb1b" order="1" name="Lucent's General Science" author="Experts' Compilation" publisher="Lucent Publications" printed="2021" language="English" dataStart="2023-01-06"/>
+            <Magazine id="ddbeca9109fa4aa987957b818912bb1b" order="1" name="Lucent's General Science" author="Experts'" publisher="Publications" printed="2021" number="11" language="English" dataStart="2023-01-06"/>
             <Book id="e587863bd27846bb82f6e3b7d3caa9ee" order="2" name="Elements of Modern X-ray Physics" author="Des McMorrow, Jens Als-Nielsen" publisher="Wiley; 2nd edition" printed="2011" language="English" dataStart="2023-01-07"/>
             <Book id="2d85a438ecca492988e7a4aef2eb9851" order="3" name="The Theory of Everything: The Quest to Explain All Reality" author="Don Lincoln, The Great Courses" publisher="The Great Courses" printed="2018" language="English" dataStart="2023-01-08"/>
         </GeneralScience>
