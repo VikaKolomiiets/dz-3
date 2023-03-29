@@ -16,8 +16,8 @@
             "dataStart": "2022-08-15",
             "dataEnd": "2023-08-14"
         },
-        "Programm": "MasterProgramme",
-        "Programme Structure": {
+        "Programme": "Master",
+        "ProgrammeStructure": {
             "name": "PhysicsMaterialsScience",
             "subjects": [
                 {
@@ -54,10 +54,16 @@
                     "credits": 95,
                     "mandatory": true,
                     "chosen": true
+                },
+                {
+                    "name": "ModernX-RayPhysics",
+                    "id": "672e1589a84a45cb84069ca4f4b00640",
+                    "credits": 135,
+                    "mandatory": true,
+                    "chosen": true
                 }
             ]
         },
-
         "LibraryAccount": {
             "id": "0a6a6f62cedc4416a5ed4b5d9cedacc7",
             "GeneralScience": [
@@ -113,7 +119,7 @@
                     "dataStart": "2023-01-20"
                 }
             ],
-            "BusinessEconomics":[
+            "BusinessEconomics": [
                 {
                     "Book": {
                         "id": "8ad0ed84bc1b4b40b81140494bdbaf2f",
@@ -127,14 +133,6 @@
                     "dataStart": "2023-02-06"
                 }
             ]
-
         }
     }
 }
-
-    
-      
-            
-         
-      
-      
