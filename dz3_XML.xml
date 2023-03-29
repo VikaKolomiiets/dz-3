@@ -5,6 +5,10 @@
     <Secondname>Creazy</Secondname>
     <Birthday>2003-01-04</Birthday>
     <CountryResidence>Ukraine</CountryResidence>
+    <ContactData>
+        <phone>+380952700607</phone>
+        <email>ec.2003@gmail.com</email>
+    </ContactData>
     <MedicalPolicy>
         <number>2154369826548888</number>
         <dataStart>2022-08-15</dataStart>
